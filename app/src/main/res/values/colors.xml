@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_color">#3aafb9</color>
+    <color name="button_pressed_color">#456f91</color>
+    <color name="alarm_menu_bg">#000000</color>
+    <color name="sleep_button_bg">#000000</color>
+    <color name="button_mini_color">#3aafb9</color>
+    <color name="sleep_button_dead">#5f5f5f</color>
+    <color name="bottom_color">#3aafb9</color>
+    <color name="bottom_pressed_color">#456f91</color>
+    <color name="wake_bg_color">#000000</color>
+    <color name="wake_item_color">#1F5673</color>
+    <color name="wake_item_pressed">#3aafb9</color>
+    <color name="bar_color_other">#252525</color>
+    <color name="text_color_white">#FFFFFF</color>
+
+    <color name="gradient_start_end">#000000</color>
+    <color name="gradient_mid">#111856</color>
+
+</resources>
